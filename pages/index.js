@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>This is the real message !</h1>
+    return <h1>Bug fix in main</h1>
 }
 
 export default Home;
